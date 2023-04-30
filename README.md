@@ -9,7 +9,7 @@
 membuat hamburger menu responsif dengan JavaScript.
 disini saya akan menjelaskan inti dalam membangun sebuah menu hamburger .
 
-Silakan melihat [Demo]()
+Silakan melihat [Demo](https://bee-0.github.io/Navbar-responsive/)
 
 - Penjelasan
 Ketika hamburger menu diklik, akan terjadi toggle class open pada elemen dengan class .hamburger, dan class open akan ditambahkan atau dihapus dari elemen 
